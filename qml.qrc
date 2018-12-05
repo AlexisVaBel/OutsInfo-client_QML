@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml_ui/MenuBackButton.qml</file>
+        <file>qml_ui/main.qml</file>
+        <file>qml_ui/WesModule.qml</file>
+        <file>qml_ui/BtnLoad.qml</file>
+        <file>qml_ui/WesModuleData.qml</file>
+        <file>js/loader.js</file>
+    </qresource>
+</RCC>
